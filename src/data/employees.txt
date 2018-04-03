@@ -1,0 +1,4 @@
+1|Francisco|Maldonado|514-555-844|Research_and_Development|FullTime|15|/01|/1999|15|/01|/1975|500|, Francois|, 611|, Verdun|, QC|, Canada|, H3E|+1|-514|-5627181|- ext: 00|+1|-514|-5627181|- ext: 00|fmtchicho@gmail.com|3269.27|Managers|85000.98
+2|Wendy|Cahuano|788-654-123|Finance|ParTime|15|/01|/1999|15|/01|/1975|888|, WENCHU|, 233|, GATINEAU|, QC|, Canada|, HW4|+1|-514|-5627181|- ext: 00|+1|-514|-5627181|- ext: 00|WENDY@gmail.com|1875.00|Consultant_Trainers|8|25.0|37.5
+3|Carlos|Maldonado|838-654-899|Human_Resources|FullTime|10|/03|/1999|22|/04|/2000|999|, CHARLEVOIX|, 888|, ILE|, DES|, SOEURS|, QC|+1|-514|-6969544|- ext: 00|+1|-514|-5447788|- ext: 00|CARLOS@gmail.com|4615.40|Managers|120000.45
+4|Agustin|Cahuano|314-553-314|Finance|ParTime|26|/01|/2014|31|/12|/1985|122|, TERREFF|, 611|, BROSSARD|, QC|, Canada|, J8U|+1|-514|-8749966|- ext: 00|+1|-514|-7894563|- ext: 00|AGUSTIN@gmail.com|300.09|Internship_Student|3|1800.55
